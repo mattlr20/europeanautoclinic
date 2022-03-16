@@ -10,6 +10,11 @@ body {
 	margin: auto;
 }
 
+.logo {
+    max-width: 212px;
+    width: 100%;
+}
+
 .fw-medium {
     font-weight: 500 !important;
 }
