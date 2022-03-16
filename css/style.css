@@ -5,6 +5,11 @@
     --dark: #1a1777;
 }
 
+body {
+	max-width: 1726px;
+	margin: auto;
+}
+
 .fw-medium {
     font-weight: 500 !important;
 }
